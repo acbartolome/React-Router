@@ -1,3 +1,5 @@
+import '../index.css'
+
 const Blue = () => {
     return (
         <div className="blue">
