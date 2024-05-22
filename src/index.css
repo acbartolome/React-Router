@@ -14,10 +14,19 @@ body > div {
 #container > div {
   display: flex;
 }
+#container > footer {
+  display: flex;
+}
+/* Added to target the footer */
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
 }
+#footer {
+  padding: 2em;
+  justify-content: space-evenly;
+}
+/* Added to style footer */
 #main-section {
   flex-grow: 1;
 }

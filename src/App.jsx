@@ -6,6 +6,7 @@ import Blue from "./components/Blue"; // Don't need
 import Home from "./components/Home"; // Don't need
 import NavBar from "./components/NavBar";
 import MainSection from "./components/MainSection";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <div id="container">
         <NavBar />
         <MainSection />
+        <Footer />
       </div>
     </>
   );
