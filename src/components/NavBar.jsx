@@ -7,6 +7,10 @@ const NavBar = () => {
         <Link to="/">Home</Link>
         <Link to="/blue">Blue</Link>
         <Link to="/red">Red</Link>
+        <Link to="/darkcoffee">Dark Coffee</Link>
+        <Link to="/latte">Latte</Link>
+        <Link to="/lavender">Lavender</Link>
+        <Link to="/botanicalgreen">Botanical Green</Link>
       </div>
   );
 };

@@ -40,3 +40,23 @@ body > div {
   background-color: grey;
   color: white;
 }
+
+.darkCoffee {
+  background-color:	#2d1b08;
+  color: white;
+}
+
+.latte {
+  background-color:	#ae9f8c;
+  color: white;
+}
+
+.lavender {
+  background-color:	#E6E6FA;
+  color: white;
+}
+
+.botanicalGreen {
+  background-color:	#77966e ;
+  color: white;
+}
