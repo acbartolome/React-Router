@@ -15,6 +15,7 @@ const MainSection = () => {
             {/* add more routes */}
           <Route path="/" element={<Home />} />
           <Route path="/blue" element={<Blue />} />
+          <Route path='/red' element={<Red />} />
           <Route path="/darkcoffee" element={<DarkCoffee />} />
           <Route path="/latte" element={<Latte />} />
           <Route path="/lavender" element={<Lavender />} />
